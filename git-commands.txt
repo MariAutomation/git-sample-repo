@@ -3,5 +3,6 @@ git init  >initializ the git repo
 git config
 git add
 git comit  -m
-git log
+git log 
 git diff <filename>
+git rm -cached<file>
