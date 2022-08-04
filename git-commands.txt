@@ -6,3 +6,11 @@ git comit  -m
 git log 
 git diff <filename>
 git rm -cached<file>
+
+
+
+
+
+-------------------
+PRIVATEBRANCH2
+_____________________
