@@ -7,10 +7,12 @@ git log
 git diff <filename>
 git rm -cached<file>
 
-
-
-
+-----------------
+PRIVATE BRANCH 01
+-----------------------
 
 -------------------
 PRIVATEBRANCH2
 _____________________
+
+
