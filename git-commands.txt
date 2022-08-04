@@ -1,5 +1,5 @@
 git status -->to check the status
-git init
+git init  >initializ the git repo
 git config
 git add
 git comit  -m
